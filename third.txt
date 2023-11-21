@@ -1,2 +1,3 @@
 third file line 1
 third file line 2
+third file line 3
